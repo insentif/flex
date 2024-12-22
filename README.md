@@ -11,3 +11,9 @@ Mpool
 ```sh
 cpuminer-avx -a flex -o stratum+ssl://asia.mpool.live:5213 -u KCN=kc1q5ed6nnk2jvxdltefwq8tjlvne85tnp506ugj7z,LCN=lc1q8wcgexr6gzhxu3pmkecxtyj2htd5jaxmu3mpx3
 ```
+
+## Stratum
+US
+```txt
+stratum+ssl://us.mpool.live:5213
+```
