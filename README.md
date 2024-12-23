@@ -1,5 +1,8 @@
 # flex
-LCN KCN [Flex](https://github.com/f1exlabs/cpuminer/releases)
+Algoritma ini digunakan pada coin:
+1. [LCN](https://lcnxp.com/address/lc1q8wcgexr6gzhxu3pmkecxtyj2htd5jaxmu3mpx3)
+2. [KCN](https://kcnxp.com/address/kc1q5ed6nnk2jvxdltefwq8tjlvne85tnp506ugj7z)
+3. [Flex](https://github.com/f1exlabs/cpuminer/releases)
 
 [zpool](https://zpool.ca/wallet/kc1q5ed6nnk2jvxdltefwq8tjlvne85tnp506ugj7z)  
 ```sh
